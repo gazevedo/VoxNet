@@ -1,0 +1,7 @@
+type - tipo de mensagem
+sequencial - id sequencial do pacote
+queue_size - tamanho da fila
+package_size - tamanho do pacote
+
+Ex:
+audio|0|100|1024|RIFF$
